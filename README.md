@@ -13,3 +13,6 @@ Este repositório serve como meu *logbook* e base de conhecimento para a resolu�
 Aqui, registro, scripts customizados (principalmente em Python) e metodologias utilizadas para explorar as vulnerabilidades em nível **Apprentice**, **Practitioner** e **Expert**.
 
 O objetivo é aprimorar meu conhecimento prático em **Pentest** e fortalecer minhas habilidades em segurança ofensiva.
+
+
+LABS DE: [XSS](./XSS)
